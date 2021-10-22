@@ -1,0 +1,16 @@
+data-large/MEBank.lic filter=lfs diff=lfs merge=lfs -text
+data-large/book.pdf filter=lfs diff=lfs merge=lfs -text
+data-large/testops-automation-testing-prod.pem filter=lfs diff=lfs merge=lfs -text
+data-large/Test[[:space:]]Run[[:space:]]Report[[:space:]]5426[[:space:]](1).pdf filter=lfs diff=lfs merge=lfs -text
+data-large/Test[[:space:]]Run[[:space:]]Report[[:space:]]5426.pdf filter=lfs diff=lfs merge=lfs -text
+data-large/git-lfs-darwin-amd64-v3.0.1.zip filter=lfs diff=lfs merge=lfs -text
+data-large/Katalon[[:space:]]&[[:space:]]Drata[[:space:]]Configuration[[:space:]]Guide.pdf filter=lfs diff=lfs merge=lfs -text
+data-large/LinguaphoneConversationalCourse_10297451.pdf filter=lfs diff=lfs merge=lfs -text
+data-large/Longman[[:space:]]preparation[[:space:]]for[[:space:]]TOEFL.pdf filter=lfs diff=lfs merge=lfs -text
+data-large/PROD[[:space:]]END[[:space:]]USER[[:space:]]FILES.zip filter=lfs diff=lfs merge=lfs -text
+data-large/optimization.pdf filter=lfs diff=lfs merge=lfs -text
+data-large/vpn filter=lfs diff=lfs merge=lfs -text
+data-large/Medtronic.lic filter=lfs diff=lfs merge=lfs -text
+data-large/Paper_67-A_Systematic_Study_of_Duplicate_Bug_Report.pdf filter=lfs diff=lfs merge=lfs -text
+data-large/Screen[[:space:]]Shot[[:space:]]2021-10-14[[:space:]]at[[:space:]]7.58.55[[:space:]]AM.png filter=lfs diff=lfs merge=lfs -text
+data-large/The-Algorithm-Design-Manual.pdf filter=lfs diff=lfs merge=lfs -text
