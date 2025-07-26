@@ -2673,9 +2673,6 @@
             "Date": {
                 "type": "string",
                 "format": "date",
-                "examples": [
-                    "2022-03-10"
-                ]
             },
             "DefectCreationResource": {
                 "type": "object",
